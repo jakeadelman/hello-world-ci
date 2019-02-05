@@ -1,7 +1,7 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/hello-world-ci
+    working_directory: ~/projects/hello-world-ci
 
     docker:
       # specify the version you desire here
